@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px;
+  font-size: 3rem;
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  margin: 50px auto 50px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: thick;
+  border-color: #40514E;
+  height: 1px;
+  width: 4%;
+}
+
+a {
+
+  text-decoration: none;
+  color: #EAF6F6;
+  padding: 30px;
+}
+a:hover {
+  color: #cdac81;
+}
+
+
+.topcontainer {
+  background-color: #00303f;
+  position: relative;
+  padding: 100px 100px;
+}
+
+.middle-container {
+  padding: 100px 0;
+  background-color: #f5f4f4;
+
+}
+
+
+
+.footer {
+  background-color: #00303f;
+  padding: 50px 0 20px;
+
+}
+
+.logo {
+  width: 10%;
+  position: absolute;
+  left: 300px;
+  top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.nebula {
+  width: 100%;
+  opacity: 50%;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.marketing-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.tron {
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   height: 23px;
+   line-height: 23px;
+   color: #CAE4DB;
+   font-family: 'Open Sans', sans-serif;
+   width: 114px;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #00303F;
+   -webkit-box-shadow: 1px 1px 10px 0 #000000;
+   -moz-box-shadow: 1px 1px 10px 0 #000000;
+   box-shadow: 1px 1px 10px 0 #000000;
+   text-shadow: 1px 1px 10px #000000;
+   border: solid #00303F 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.tron:hover {
+   background: #164E5F;
+   border: solid #164E5F 7px;
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   text-decoration: none;
+}
+
+.copyright {
+  padding-top: 25px;
+  color: #cdac81;
+}
+
+.hello-description {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+
+}
+
+
+.dropusaline {
+
+  line-height: 2;
+}
