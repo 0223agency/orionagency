@@ -69,8 +69,8 @@ a:hover {
 .logo {
   width: 10%;
   position: absolute;
-  left: 300px;
-  top: 50px;
+  left: 15%;
+  top: 15%;
 }
 .skill-row {
   width: 50%;
@@ -97,7 +97,16 @@ a:hover {
 .marketing-img {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 40px;
+  position: relative;
+  top: 30px;
+
+}
+.marketing-description {
+  width: 70%;
+
+}
+.skills-description{
 }
 
 .tron {
